@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 169px;
+    color: darkcyan;
+    font-family: 'Roboto', Arial, sans-serif;
+    opacity: 70%;
+}
