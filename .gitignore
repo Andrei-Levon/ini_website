@@ -6,3 +6,6 @@
 
 # Secret
 ini_website/settings.py
+
+# Photos
+static/photos/
